@@ -26,9 +26,10 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
-    <Name>Yosemite Rating="4.8"</Name>
+  <NationalPark Rating="4.8">
+    <Name>Yosemite</Name>
     <Phone>209-372-0200</Phone>
+    <Phone>209-555-0123</Phone>
     <Address NearestAirport="Fresno Yosemite International">
       <Number>9035</Number>
       <Street>Village Drive</Street>
@@ -50,8 +51,8 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
-    <Name>North Cascades Rating="4.8"</Name>
+  <NationalPark Rating="4.8">
+    <Name>North Cascades</Name>
     <Address NearestAirport="Seattle-Tacoma International">
       <Number>810</Number>
       <Street>State Route 20</Street>
@@ -98,8 +99,8 @@
     </Address>
   </NationalPark>
 
-  <NationalPark>
-    <Name>Hawaii Volcanoes Rating="4.8"</Name>
+  <NationalPark Rating="4.8">
+    <Name>Hawaii Volcanoes</Name>
     <Phone>808-985-6000</Phone>
     <Address NearestAirport="Hilo International">
       <Number>1</Number>
